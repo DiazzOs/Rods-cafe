@@ -128,12 +128,6 @@ header{
 }
 
 @media (max-width: 1024px){
-    .navbar{
-        padding: 20px 5%;
-    }
-    .nav-links{
-        gap: 25px;
-    }
     .container-home h1{
         font-size: 4rem;
     }
@@ -154,43 +148,6 @@ header{
 
 @media (max-width: 768px){
 
-
-
- .navbar{
-        padding:15px 5%;
-    }
-
-    .nav-logo img{
-        width:35px;
-        height:35px;
-    }
-
-    .nav-brand h1{
-        font-size:1.3rem;
-    }
-
-    .nav-links{
-        gap: 9px;
-    }
-
-    .nav-links a{
-        font-size:0.7rem;
-    }
-
-
-
-    
-   .navbar{
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-}
-
-    .nav-links{
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 10px;
-    }
 
     .home{
         text-align: center;
@@ -288,8 +245,6 @@ header{
     line-height: 1.6;
     font-size: 0.95rem;
 }
-
-/* galeria */
 
 
 
